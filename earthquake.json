@@ -1,0 +1,3221 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "generated": 1647098096000,
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2022-01-01&minlatitude=5&minlongitude=115&maxlatitude=21&maxlongitude=130",
+    "title": "USGS Earthquakes",
+    "status": 200,
+    "api": "1.13.3",
+    "count": 80
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.9,
+        "place": "8 km E of Andop, Philippines",
+        "time": 1647008065753,
+        "updated": 1647030372183,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h3sn",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000h3sn&format=geojson",
+        "felt": 10,
+        "cdi": 6.4,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 376,
+        "net": "us",
+        "code": "6000h3sn",
+        "ids": ",us6000h3sn,",
+        "sources": ",us,",
+        "types": ",dyfi,origin,phase-data,",
+        "nst": null,
+        "dmin": 0.816,
+        "rms": 0.99,
+        "gap": 104,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.9 - 8 km E of Andop, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8294,
+          7.8527,
+          44.31
+        ]
+      },
+      "id": "us6000h3sn"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.2,
+        "place": "130 km SSE of Pondaguitan, Philippines",
+        "time": 1646581024350,
+        "updated": 1646941322040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h3lc",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000h3lc&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 271,
+        "net": "us",
+        "code": "6000h3lc",
+        "ids": ",us6000h3lc,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 2.074,
+        "rms": 1.07,
+        "gap": 88,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.2 - 130 km SSE of Pondaguitan, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.6527,
+          5.2795,
+          105.91
+        ]
+      },
+      "id": "us6000h3lc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.4,
+        "place": "6 km ESE of Cortes, Philippines",
+        "time": 1646369264500,
+        "updated": 1646880293040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h3br",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000h3br&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 298,
+        "net": "us",
+        "code": "6000h3br",
+        "ids": ",us6000h3br,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 2.277,
+        "rms": 1.01,
+        "gap": 114,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.4 - 6 km ESE of Cortes, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.2472,
+          9.2628,
+          11
+        ]
+      },
+      "id": "us6000h3br"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.3,
+        "place": "2 km NNE of San Nicolas, Philippines",
+        "time": 1646294061807,
+        "updated": 1646356792582,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h1x4",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000h1x4&format=geojson",
+        "felt": 5,
+        "cdi": 2,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 285,
+        "net": "us",
+        "code": "6000h1x4",
+        "ids": ",us6000h1x4,",
+        "sources": ",us,",
+        "types": ",dyfi,origin,phase-data,",
+        "nst": null,
+        "dmin": 7.765,
+        "rms": 0.98,
+        "gap": 119,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.3 - 2 km NNE of San Nicolas, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6881,
+          15.608,
+          155.76
+        ]
+      },
+      "id": "us6000h1x4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.3,
+        "place": "116 km NNW of Davila, Philippines",
+        "time": 1646140469417,
+        "updated": 1646591955040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h13e",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000h13e&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 284,
+        "net": "us",
+        "code": "6000h13e",
+        "ids": ",us6000h13e,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 3.59,
+        "rms": 0.69,
+        "gap": 99,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.3 - 116 km NNW of Davila, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9796,
+          19.36,
+          10
+        ]
+      },
+      "id": "us6000h13e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.3,
+        "place": "24 km NNE of Alugan, Philippines",
+        "time": 1646109624417,
+        "updated": 1646717197040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h23s",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000h23s&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 284,
+        "net": "us",
+        "code": "6000h23s",
+        "ids": ",us6000h23s,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 25.017,
+        "rms": 0.61,
+        "gap": 125,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.3 - 24 km NNE of Alugan, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5604,
+          12.4219,
+          35
+        ]
+      },
+      "id": "us6000h23s"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5.2,
+        "place": "73 km S of Pondaguitan, Philippines",
+        "time": 1645856153561,
+        "updated": 1647005693842,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h0au",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000h0au&format=geojson",
+        "felt": 8,
+        "cdi": 3.4,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 419,
+        "net": "us",
+        "code": "6000h0au",
+        "ids": ",us6000h0au,usauto6000h0au,pt22057000,",
+        "sources": ",us,usauto,pt,",
+        "types": ",dyfi,internal-moment-tensor,internal-origin,origin,phase-data,",
+        "nst": null,
+        "dmin": 1.526,
+        "rms": 1.09,
+        "gap": 48,
+        "magType": "mww",
+        "type": "earthquake",
+        "title": "M 5.2 - 73 km S of Pondaguitan, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.2848,
+          5.7048,
+          119.18
+        ]
+      },
+      "id": "us6000h0au"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.8,
+        "place": "58 km SE of Pondaguitan, Philippines",
+        "time": 1645763981440,
+        "updated": 1645764922040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h005",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000h005&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 354,
+        "net": "us",
+        "code": "6000h005",
+        "ids": ",us6000h005,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 1.445,
+        "rms": 1.24,
+        "gap": 120,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.8 - 58 km SE of Pondaguitan, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.5115,
+          5.9528,
+          70.63
+        ]
+      },
+      "id": "us6000h005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.2,
+        "place": "16 km W of Tingloy, Philippines",
+        "time": 1645761657564,
+        "updated": 1646276001040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h1ew",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000h1ew&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 271,
+        "net": "us",
+        "code": "6000h1ew",
+        "ids": ",us6000h1ew,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 8.733,
+        "rms": 0.64,
+        "gap": 133,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.2 - 16 km W of Tingloy, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.722,
+          13.6849,
+          156.29
+        ]
+      },
+      "id": "us6000h1ew"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.6,
+        "place": "57 km SSE of Pondaguitan, Philippines",
+        "time": 1645741177991,
+        "updated": 1646107072040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000gzwe",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000gzwe&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 326,
+        "net": "us",
+        "code": "6000gzwe",
+        "ids": ",us6000gzwe,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 1.434,
+        "rms": 0.87,
+        "gap": 116,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.6 - 57 km SSE of Pondaguitan, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.4616,
+          5.9277,
+          68.66
+        ]
+      },
+      "id": "us6000gzwe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.5,
+        "place": "71 km ESE of Lukatan, Philippines",
+        "time": 1645673648790,
+        "updated": 1646630655040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h154",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000h154&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 312,
+        "net": "us",
+        "code": "6000h154",
+        "ids": ",us6000h154,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 1.438,
+        "rms": 0.71,
+        "gap": 133,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.5 - 71 km ESE of Lukatan, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9663,
+          6.6538,
+          50.65
+        ]
+      },
+      "id": "us6000h154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.5,
+        "place": "142 km E of Pondaguitan, Philippines",
+        "time": 1645656748105,
+        "updated": 1646790547040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000gzna",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000gzna&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 312,
+        "net": "us",
+        "code": "6000gzna",
+        "ids": ",us6000gzna,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 2.055,
+        "rms": 0.47,
+        "gap": 124,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.5 - 142 km E of Pondaguitan, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.4589,
+          6.206,
+          10
+        ]
+      },
+      "id": "us6000gzna"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.5,
+        "place": "22 km NE of Hinatuan, Philippines",
+        "time": 1645624480183,
+        "updated": 1646221877040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gn8s",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gn8s&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 312,
+        "net": "us",
+        "code": "7000gn8s",
+        "ids": ",us7000gn8s,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 1.678,
+        "rms": 0.45,
+        "gap": 58,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.5 - 22 km NE of Hinatuan, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.4977,
+          8.4885,
+          54.98
+        ]
+      },
+      "id": "us7000gn8s"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.4,
+        "place": "7 km WSW of Kiblawan, Philippines",
+        "time": 1645483452503,
+        "updated": 1646116022899,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h025",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000h025&format=geojson",
+        "felt": 1,
+        "cdi": 2.2,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 298,
+        "net": "us",
+        "code": "6000h025",
+        "ids": ",us6000h025,",
+        "sources": ",us,",
+        "types": ",dyfi,origin,phase-data,",
+        "nst": null,
+        "dmin": 0.628,
+        "rms": 0.49,
+        "gap": 119,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.4 - 7 km WSW of Kiblawan, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.1745,
+          6.5826,
+          10
+        ]
+      },
+      "id": "us6000h025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5.3,
+        "place": "7 km SSE of Tingloy, Philippines",
+        "time": 1645428138797,
+        "updated": 1645445067615,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmkz",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gmkz&format=geojson",
+        "felt": 12,
+        "cdi": 3.1,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 436,
+        "net": "us",
+        "code": "7000gmkz",
+        "ids": ",us7000gmkz,usauto7000gmkz,",
+        "sources": ",us,usauto,",
+        "types": ",dyfi,internal-moment-tensor,origin,phase-data,",
+        "nst": null,
+        "dmin": 9.651,
+        "rms": 0.46,
+        "gap": 109,
+        "magType": "mww",
+        "type": "earthquake",
+        "title": "M 5.3 - 7 km SSE of Tingloy, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8971,
+          13.6001,
+          138.19
+        ]
+      },
+      "id": "us7000gmkz"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.4,
+        "place": "6 km SW of Dangcalan, Philippines",
+        "time": 1645407170362,
+        "updated": 1646104712040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h01f",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000h01f&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 298,
+        "net": "us",
+        "code": "6000h01f",
+        "ids": ",us6000h01f,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 13.845,
+        "rms": 0.4,
+        "gap": 177,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.4 - 6 km SW of Dangcalan, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.5436,
+          12.872,
+          10
+        ]
+      },
+      "id": "us6000h01f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5.2,
+        "place": "60 km SE of Pondaguitan, Philippines",
+        "time": 1645391605914,
+        "updated": 1646373049392,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmi3",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gmi3&format=geojson",
+        "felt": 4,
+        "cdi": 2.5,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 417,
+        "net": "us",
+        "code": "7000gmi3",
+        "ids": ",us7000gmi3,",
+        "sources": ",us,",
+        "types": ",dyfi,origin,phase-data,",
+        "nst": null,
+        "dmin": 1.461,
+        "rms": 0.84,
+        "gap": 31,
+        "magType": "mww",
+        "type": "earthquake",
+        "title": "M 5.2 - 60 km SE of Pondaguitan, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.5852,
+          5.9961,
+          50.54
+        ]
+      },
+      "id": "us7000gmi3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.6,
+        "place": "10 km SW of Pangyan, Philippines",
+        "time": 1645391288177,
+        "updated": 1646368926040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000gztn",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000gztn&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 326,
+        "net": "us",
+        "code": "6000gztn",
+        "ids": ",us6000gztn,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 1.475,
+        "rms": 0.72,
+        "gap": 96,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.6 - 10 km SW of Pangyan, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.2277,
+          5.6265,
+          46.89
+        ]
+      },
+      "id": "us6000gztn"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.8,
+        "place": "64 km ESE of Pondaguitan, Philippines",
+        "time": 1645389103845,
+        "updated": 1645413058740,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmht",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gmht&format=geojson",
+        "felt": 1,
+        "cdi": 2,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 355,
+        "net": "us",
+        "code": "7000gmht",
+        "ids": ",us7000gmht,",
+        "sources": ",us,",
+        "types": ",dyfi,origin,phase-data,",
+        "nst": null,
+        "dmin": 1.479,
+        "rms": 1.12,
+        "gap": 162,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.8 - 64 km ESE of Pondaguitan, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.6686,
+          6.0541,
+          65.19
+        ]
+      },
+      "id": "us7000gmht"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.3,
+        "place": "68 km SSE of Pondaguitan, Philippines",
+        "time": 1645386582917,
+        "updated": 1646086283040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000gztf",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000gztf&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 284,
+        "net": "us",
+        "code": "6000gztf",
+        "ids": ",us6000gztf,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 1.524,
+        "rms": 0.9,
+        "gap": 121,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.3 - 68 km SSE of Pondaguitan, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.453,
+          5.809,
+          57.53
+        ]
+      },
+      "id": "us6000gztf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.7,
+        "place": "58 km SE of Pondaguitan, Philippines",
+        "time": 1645385141420,
+        "updated": 1645410056057,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmhi",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gmhi&format=geojson",
+        "felt": 2,
+        "cdi": 2.2,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 340,
+        "net": "us",
+        "code": "7000gmhi",
+        "ids": ",us7000gmhi,",
+        "sources": ",us,",
+        "types": ",dyfi,origin,phase-data,",
+        "nst": null,
+        "dmin": 1.437,
+        "rms": 0.65,
+        "gap": 109,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.7 - 58 km SE of Pondaguitan, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.5857,
+          6.0307,
+          60.24
+        ]
+      },
+      "id": "us7000gmhi"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.5,
+        "place": "61 km SE of Pondaguitan, Philippines",
+        "time": 1645384019727,
+        "updated": 1646085649040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000gztc",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000gztc&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 312,
+        "net": "us",
+        "code": "6000gztc",
+        "ids": ",us6000gztc,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 1.458,
+        "rms": 1.06,
+        "gap": 109,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.5 - 61 km SE of Pondaguitan, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.6352,
+          6.0502,
+          55.54
+        ]
+      },
+      "id": "us6000gztc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.4,
+        "place": "52 km SE of Pondaguitan, Philippines",
+        "time": 1645383216964,
+        "updated": 1645390555040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmh7",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gmh7&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 298,
+        "net": "us",
+        "code": "7000gmh7",
+        "ids": ",us7000gmh7,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 1.39,
+        "rms": 0.72,
+        "gap": 106,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.4 - 52 km SE of Pondaguitan, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.471,
+          5.9912,
+          67.57
+        ]
+      },
+      "id": "us7000gmh7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5.5,
+        "place": "63 km SE of Pondaguitan, Philippines",
+        "time": 1645381767401,
+        "updated": 1645633007040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmgl",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gmgl&format=geojson",
+        "felt": 8,
+        "cdi": 4.1,
+        "mmi": 4.133,
+        "alert": "green",
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 469,
+        "net": "us",
+        "code": "7000gmgl",
+        "ids": ",us7000gmgl,usauto7000gmgl,pt22051000,",
+        "sources": ",us,usauto,pt,",
+        "types": ",dyfi,internal-moment-tensor,internal-origin,losspager,moment-tensor,origin,phase-data,shakemap,",
+        "nst": null,
+        "dmin": 1.486,
+        "rms": 1.12,
+        "gap": 32,
+        "magType": "mww",
+        "type": "earthquake",
+        "title": "M 5.5 - 63 km SE of Pondaguitan, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.6351,
+          6.01,
+          59.39
+        ]
+      },
+      "id": "us7000gmgl"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.7,
+        "place": "61 km NE of Santa Monica, Philippines",
+        "time": 1645361327533,
+        "updated": 1645527863751,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmff",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gmff&format=geojson",
+        "felt": 0,
+        "cdi": 1,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 340,
+        "net": "us",
+        "code": "7000gmff",
+        "ids": ",us7000gmff,",
+        "sources": ",us,",
+        "types": ",dyfi,origin,phase-data,",
+        "nst": null,
+        "dmin": 3.41,
+        "rms": 0.55,
+        "gap": 132,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.7 - 61 km NE of Santa Monica, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.4558,
+          10.3896,
+          10
+        ]
+      },
+      "id": "us7000gmff"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.4,
+        "place": "6 km W of Santa Cruz, Philippines",
+        "time": 1645272982551,
+        "updated": 1645275309040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gm7i",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gm7i&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 298,
+        "net": "us",
+        "code": "7000gm7i",
+        "ids": ",us7000gm7i,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 4.288,
+        "rms": 0.42,
+        "gap": 109,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.4 - 6 km W of Santa Cruz, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.245,
+          18.5103,
+          61.29
+        ]
+      },
+      "id": "us7000gm7i"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4,
+        "place": "110 km ESE of Sarangani, Philippines",
+        "time": 1645222865572,
+        "updated": 1645927384040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gn89",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gn89&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 246,
+        "net": "us",
+        "code": "7000gn89",
+        "ids": ",us7000gn89,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 2.132,
+        "rms": 0.39,
+        "gap": 166,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.0 - 110 km ESE of Sarangani, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.4118,
+          5.0916,
+          10
+        ]
+      },
+      "id": "us7000gn89"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.4,
+        "place": "159 km ESE of Pondaguitan, Philippines",
+        "time": 1645060975451,
+        "updated": 1646096290040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmzp",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gmzp&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 298,
+        "net": "us",
+        "code": "7000gmzp",
+        "ids": ",us7000gmzp,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 15.641,
+        "rms": 0.62,
+        "gap": 116,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.4 - 159 km ESE of Pondaguitan, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.5267,
+          5.8574,
+          10
+        ]
+      },
+      "id": "us7000gmzp"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.5,
+        "place": "4 km N of Cabatuan, Philippines",
+        "time": 1645007375422,
+        "updated": 1645953231040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmsm",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gmsm&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 312,
+        "net": "us",
+        "code": "7000gmsm",
+        "ids": ",us7000gmsm,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 5.469,
+        "rms": 0.71,
+        "gap": 120,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.5 - 4 km N of Cabatuan, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.2129,
+          12.5622,
+          35
+        ]
+      },
+      "id": "us7000gmsm"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.2,
+        "place": "51 km SE of Basco, Philippines",
+        "time": 1644938234848,
+        "updated": 1645472907040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gm0i",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gm0i&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 271,
+        "net": "us",
+        "code": "7000gm0i",
+        "ids": ",us7000gm0i,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 2.932,
+        "rms": 0.77,
+        "gap": 91,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.2 - 51 km SE of Basco, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.2923,
+          20.0975,
+          10
+        ]
+      },
+      "id": "us7000gm0i"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.2,
+        "place": "69 km E of Sarangani, Philippines",
+        "time": 1644891138679,
+        "updated": 1646025056040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gm07",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gm07&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 271,
+        "net": "us",
+        "code": "7000gm07",
+        "ids": ",us7000gm07,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 1.781,
+        "rms": 0.35,
+        "gap": 134,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.2 - 69 km E of Sarangani, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.0857,
+          5.3492,
+          81.03
+        ]
+      },
+      "id": "us7000gm07"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.5,
+        "place": "8 km WNW of Culaman, Philippines",
+        "time": 1644747138645,
+        "updated": 1646464140420,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gkhu",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gkhu&format=geojson",
+        "felt": 2,
+        "cdi": 2,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 312,
+        "net": "us",
+        "code": "7000gkhu",
+        "ids": ",us7000gkhu,",
+        "sources": ",us,",
+        "types": ",dyfi,origin,phase-data,",
+        "nst": null,
+        "dmin": 1.065,
+        "rms": 0.64,
+        "gap": 107,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.5 - 8 km WNW of Culaman, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5927,
+          5.9977,
+          84.83
+        ]
+      },
+      "id": "us7000gkhu"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5.5,
+        "place": "57 km N of Namuac, Philippines",
+        "time": 1644726977787,
+        "updated": 1647054585987,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gkf7",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gkf7&format=geojson",
+        "felt": 7,
+        "cdi": 5,
+        "mmi": 4.926,
+        "alert": "green",
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 469,
+        "net": "us",
+        "code": "7000gkf7",
+        "ids": ",us7000gkf7,usauto7000gkf7,pt22044000,",
+        "sources": ",us,usauto,pt,",
+        "types": ",dyfi,internal-moment-tensor,internal-origin,losspager,moment-tensor,origin,phase-data,shakemap,",
+        "nst": null,
+        "dmin": 3.67,
+        "rms": 0.93,
+        "gap": 47,
+        "magType": "mww",
+        "type": "earthquake",
+        "title": "M 5.5 - 57 km N of Namuac, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.173,
+          19.1297,
+          28.22
+        ]
+      },
+      "id": "us7000gkf7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5.2,
+        "place": "70 km WSW of Basco, Philippines",
+        "time": 1644626467197,
+        "updated": 1645318688040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gk5t",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gk5t&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 416,
+        "net": "us",
+        "code": "7000gk5t",
+        "ids": ",us7000gk5t,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 2.693,
+        "rms": 0.95,
+        "gap": 30,
+        "magType": "mww",
+        "type": "earthquake",
+        "title": "M 5.2 - 70 km WSW of Basco, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3886,
+          20.1266,
+          26.04
+        ]
+      },
+      "id": "us7000gk5t"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.9,
+        "place": "Mindanao, Philippines",
+        "time": 1644589516979,
+        "updated": 1645958892934,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gjzl",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gjzl&format=geojson",
+        "felt": 8,
+        "cdi": 4.6,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 373,
+        "net": "us",
+        "code": "7000gjzl",
+        "ids": ",us7000gjzl,",
+        "sources": ",us,",
+        "types": ",dyfi,origin,phase-data,",
+        "nst": null,
+        "dmin": 1.613,
+        "rms": 0.38,
+        "gap": 65,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.9 - Mindanao, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.4646,
+          5.8888,
+          63.77
+        ]
+      },
+      "id": "us7000gjzl"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.4,
+        "place": "13 km WSW of Buenavista, Philippines",
+        "time": 1644275915201,
+        "updated": 1644793875040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gk18",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gk18&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 298,
+        "net": "us",
+        "code": "7000gk18",
+        "ids": ",us7000gk18,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 2.029,
+        "rms": 1.02,
+        "gap": 81,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.4 - 13 km WSW of Buenavista, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.0523,
+          9.0574,
+          10
+        ]
+      },
+      "id": "us7000gk18"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.3,
+        "place": "12 km N of Cagdianao, Philippines",
+        "time": 1644243975736,
+        "updated": 1644874497040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gk0z",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gk0z&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 284,
+        "net": "us",
+        "code": "7000gk0z",
+        "ids": ",us7000gk0z,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 2.947,
+        "rms": 0.37,
+        "gap": 119,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.3 - 12 km N of Cagdianao, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.6861,
+          10.0345,
+          82.96
+        ]
+      },
+      "id": "us7000gk0z"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.5,
+        "place": "99 km SSE of Pondaguitan, Philippines",
+        "time": 1644240953440,
+        "updated": 1644871853040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gk0s",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gk0s&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 312,
+        "net": "us",
+        "code": "7000gk0s",
+        "ids": ",us7000gk0s,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 1.805,
+        "rms": 0.42,
+        "gap": 88,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.5 - 99 km SSE of Pondaguitan, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.6345,
+          5.591,
+          76.42
+        ]
+      },
+      "id": "us7000gk0s"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.3,
+        "place": "1 km S of Surup, Philippines",
+        "time": 1644156074764,
+        "updated": 1644861856040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gjrb",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gjrb&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 284,
+        "net": "us",
+        "code": "7000gjrb",
+        "ids": ",us7000gjrb,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 0.891,
+        "rms": 0.83,
+        "gap": 99,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.3 - 1 km S of Surup, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.1471,
+          6.3747,
+          79.08
+        ]
+      },
+      "id": "us7000gjrb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.2,
+        "place": "105 km SSE of Pondaguitan, Philippines",
+        "time": 1644081993710,
+        "updated": 1646346802040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gjpk",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gjpk&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 271,
+        "net": "us",
+        "code": "7000gjpk",
+        "ids": ",us7000gjpk,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 1.838,
+        "rms": 0.76,
+        "gap": 140,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.2 - 105 km SSE of Pondaguitan, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.4964,
+          5.4628,
+          10
+        ]
+      },
+      "id": "us7000gjpk"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.4,
+        "place": "44 km SE of Minuri, Philippines",
+        "time": 1644059782952,
+        "updated": 1646403474040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gjpb",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gjpb&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 298,
+        "net": "us",
+        "code": "7000gjpb",
+        "ids": ",us7000gjpb,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 7.136,
+        "rms": 0.31,
+        "gap": 95,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.4 - 44 km SE of Minuri, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.1713,
+          16.2767,
+          50.99
+        ]
+      },
+      "id": "us7000gjpb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.6,
+        "place": "94 km SSE of Pondaguitan, Philippines",
+        "time": 1644036346537,
+        "updated": 1644546373040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gjnx",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gjnx&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 326,
+        "net": "us",
+        "code": "7000gjnx",
+        "ids": ",us7000gjnx,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 1.764,
+        "rms": 0.65,
+        "gap": 118,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.6 - 94 km SSE of Pondaguitan, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.5823,
+          5.6047,
+          57.17
+        ]
+      },
+      "id": "us7000gjnx"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.2,
+        "place": "27 km W of Gadung, Philippines",
+        "time": 1643880501966,
+        "updated": 1644570151040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gjdl",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gjdl&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 271,
+        "net": "us",
+        "code": "7000gjdl",
+        "ids": ",us7000gjdl,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 5.494,
+        "rms": 0.37,
+        "gap": 149,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.2 - 27 km W of Gadung, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.7716,
+          6.8248,
+          601.36
+        ]
+      },
+      "id": "us7000gjdl"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.9,
+        "place": "72 km SW of Basco, Philippines",
+        "time": 1643863633554,
+        "updated": 1644558643040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ghjj",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ghjj&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 369,
+        "net": "us",
+        "code": "7000ghjj",
+        "ids": ",us7000ghjj,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 2.929,
+        "rms": 0.83,
+        "gap": 89,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.9 - 72 km SW of Basco, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5724,
+          19.9104,
+          49.6
+        ]
+      },
+      "id": "us7000ghjj"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.4,
+        "place": "6 km ENE of Hukay, Philippines",
+        "time": 1643813245553,
+        "updated": 1646313777040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ghb3",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ghb3&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 298,
+        "net": "us",
+        "code": "7000ghb3",
+        "ids": ",us7000ghb3,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 8.247,
+        "rms": 0.59,
+        "gap": 106,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.4 - 6 km ENE of Hukay, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7597,
+          13.8634,
+          112.32
+        ]
+      },
+      "id": "us7000ghb3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.6,
+        "place": "35 km SSE of Tamisan, Philippines",
+        "time": 1643645676054,
+        "updated": 1644184834040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gi0j",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gi0j&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 326,
+        "net": "us",
+        "code": "7000gi0j",
+        "ids": ",us7000gi0j,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 0.999,
+        "rms": 0.42,
+        "gap": 128,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.6 - 35 km SSE of Tamisan, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.4448,
+          6.5574,
+          65.36
+        ]
+      },
+      "id": "us7000gi0j"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.5,
+        "place": "169 km WSW of Ilioilio, Philippines",
+        "time": 1643506532026,
+        "updated": 1644022420040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ghxz",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ghxz&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 312,
+        "net": "us",
+        "code": "7000ghxz",
+        "ids": ",us7000ghxz,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 7.735,
+        "rms": 0.6,
+        "gap": 116,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.5 - 169 km WSW of Ilioilio, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.2532,
+          15.5192,
+          10
+        ]
+      },
+      "id": "us7000ghxz"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.3,
+        "place": "168 km WSW of Ilioilio, Philippines",
+        "time": 1643503138795,
+        "updated": 1646280803040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ghxx",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ghxx&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 284,
+        "net": "us",
+        "code": "7000ghxx",
+        "ids": ",us7000ghxx,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 7.731,
+        "rms": 0.57,
+        "gap": 139,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.3 - 168 km WSW of Ilioilio, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.2654,
+          15.5194,
+          10
+        ]
+      },
+      "id": "us7000ghxx"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5.3,
+        "place": "167 km WSW of Ilioilio, Philippines",
+        "time": 1643501832890,
+        "updated": 1646778510040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ggb9",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ggb9&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 432,
+        "net": "us",
+        "code": "7000ggb9",
+        "ids": ",usauto7000ggb9,us7000ggb9,",
+        "sources": ",usauto,us,",
+        "types": ",internal-moment-tensor,moment-tensor,origin,phase-data,",
+        "nst": null,
+        "dmin": 7.64,
+        "rms": 0.79,
+        "gap": 70,
+        "magType": "mww",
+        "type": "earthquake",
+        "title": "M 5.3 - 167 km WSW of Ilioilio, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.239,
+          15.626,
+          10
+        ]
+      },
+      "id": "us7000ggb9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.7,
+        "place": "Philippine Islands region",
+        "time": 1643345774098,
+        "updated": 1645160348040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gfrt",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gfrt&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 340,
+        "net": "us",
+        "code": "7000gfrt",
+        "ids": ",us7000gfrt,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 1.724,
+        "rms": 0.98,
+        "gap": 100,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.7 - Philippine Islands region"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0286,
+          6.1151,
+          65.4
+        ]
+      },
+      "id": "us7000gfrt"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.3,
+        "place": "Mindanao, Philippines",
+        "time": 1643212797320,
+        "updated": 1643864005040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ghcd",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ghcd&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 284,
+        "net": "us",
+        "code": "7000ghcd",
+        "ids": ",us7000ghcd,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 1.919,
+        "rms": 0.89,
+        "gap": 130,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.3 - Mindanao, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3548,
+          5.3008,
+          60.29
+        ]
+      },
+      "id": "us7000ghcd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.3,
+        "place": "2 km N of Biga, Philippines",
+        "time": 1643200593465,
+        "updated": 1644155659040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ghc6",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ghc6&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 284,
+        "net": "us",
+        "code": "7000ghc6",
+        "ids": ",us7000ghc6,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 8.943,
+        "rms": 0.49,
+        "gap": 112,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.3 - 2 km N of Biga, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6455,
+          13.9228,
+          109.09
+        ]
+      },
+      "id": "us7000ghc6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.5,
+        "place": "105 km SE of Caburan, Philippines",
+        "time": 1643155157439,
+        "updated": 1643861710040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gf59",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gf59&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 312,
+        "net": "us",
+        "code": "7000gf59",
+        "ids": ",us7000gf59,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 1.873,
+        "rms": 1.15,
+        "gap": 115,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.5 - 105 km SE of Caburan, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.4274,
+          5.3859,
+          10
+        ]
+      },
+      "id": "us7000gf59"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.5,
+        "place": "Panay, Philippines",
+        "time": 1643087825933,
+        "updated": 1644047338040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ggzw",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ggzw&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 312,
+        "net": "us",
+        "code": "7000ggzw",
+        "ids": ",us7000ggzw,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 5.489,
+        "rms": 0.51,
+        "gap": 116,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.5 - Panay, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.2836,
+          11.5208,
+          10
+        ]
+      },
+      "id": "us7000ggzw"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.5,
+        "place": "108 km ENE of Pilar, Philippines",
+        "time": 1643083046872,
+        "updated": 1646193843040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ggzn",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ggzn&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 312,
+        "net": "us",
+        "code": "7000ggzn",
+        "ids": ",us7000ggzn,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 20.995,
+        "rms": 0.64,
+        "gap": 96,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.5 - 108 km ENE of Pilar, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0447,
+          10.1565,
+          10
+        ]
+      },
+      "id": "us7000ggzn"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4,
+        "place": "104 km WSW of Basco, Philippines",
+        "time": 1642920088664,
+        "updated": 1646289626040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ggn1",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ggn1&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 246,
+        "net": "us",
+        "code": "7000ggn1",
+        "ids": ",us7000ggn1,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 2.589,
+        "rms": 0.57,
+        "gap": 105,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.0 - 104 km WSW of Basco, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0041,
+          20.2169,
+          45.61
+        ]
+      },
+      "id": "us7000ggn1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5.1,
+        "place": "65 km ESE of Manay, Philippines",
+        "time": 1642919025304,
+        "updated": 1645016490040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gecb",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gecb&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 400,
+        "net": "us",
+        "code": "7000gecb",
+        "ids": ",us7000gecb,",
+        "sources": ",us,",
+        "types": ",moment-tensor,origin,phase-data,",
+        "nst": null,
+        "dmin": 1.502,
+        "rms": 0.53,
+        "gap": 115,
+        "magType": "mww",
+        "type": "earthquake",
+        "title": "M 5.1 - 65 km ESE of Manay, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0901,
+          6.986,
+          10
+        ]
+      },
+      "id": "us7000gecb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.9,
+        "place": "69 km ESE of Santiago, Philippines",
+        "time": 1642918557650,
+        "updated": 1645012877040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000geca",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000geca&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 369,
+        "net": "us",
+        "code": "7000geca",
+        "ids": ",us7000geca,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 1.553,
+        "rms": 0.75,
+        "gap": 110,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.9 - 69 km ESE of Santiago, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.1437,
+          7.0341,
+          10
+        ]
+      },
+      "id": "us7000geca"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.5,
+        "place": "56 km ESE of San Ignacio, Philippines",
+        "time": 1642914679094,
+        "updated": 1645009845040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ggn3",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ggn3&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 312,
+        "net": "us",
+        "code": "7000ggn3",
+        "ids": ",us7000ggn3,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 1.368,
+        "rms": 0.47,
+        "gap": 121,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.5 - 56 km ESE of San Ignacio, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9476,
+          6.9024,
+          72.37
+        ]
+      },
+      "id": "us7000ggn3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.9,
+        "place": "6 km WNW of Bagalangit, Philippines",
+        "time": 1642889237910,
+        "updated": 1644967927040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gea5",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gea5&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 369,
+        "net": "us",
+        "code": "7000gea5",
+        "ids": ",us7000gea5,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 9.52,
+        "rms": 0.71,
+        "gap": 98,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.9 - 6 km WNW of Bagalangit, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8305,
+          13.7305,
+          137.76
+        ]
+      },
+      "id": "us7000gea5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4,
+        "place": "3 km WNW of Magallanes, Philippines",
+        "time": 1642884208884,
+        "updated": 1643412198040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gfxz",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gfxz&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 246,
+        "net": "us",
+        "code": "7000gfxz",
+        "ids": ",us7000gfxz,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 9.057,
+        "rms": 0.73,
+        "gap": 111,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.0 - 3 km WNW of Magallanes, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7267,
+          14.1955,
+          233.96
+        ]
+      },
+      "id": "us7000gfxz"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4,
+        "place": "77 km SE of Pondaguitan, Philippines",
+        "time": 1642823543097,
+        "updated": 1643414681040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gfx8",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gfx8&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 246,
+        "net": "us",
+        "code": "7000gfx8",
+        "ids": ",us7000gfx8,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 1.609,
+        "rms": 0.47,
+        "gap": 125,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.0 - 77 km SE of Pondaguitan, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7105,
+          5.9099,
+          111.43
+        ]
+      },
+      "id": "us7000gfx8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5.3,
+        "place": "3 km SW of Baganga, Philippines",
+        "time": 1642797825453,
+        "updated": 1645735602909,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ge0c",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ge0c&format=geojson",
+        "felt": 3,
+        "cdi": 4.6,
+        "mmi": 4.047,
+        "alert": "green",
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 434,
+        "net": "us",
+        "code": "7000ge0c",
+        "ids": ",us7000ge0c,usauto7000ge0c,",
+        "sources": ",us,usauto,",
+        "types": ",dyfi,internal-moment-tensor,losspager,moment-tensor,origin,phase-data,shakemap,",
+        "nst": null,
+        "dmin": 1.065,
+        "rms": 0.84,
+        "gap": 23,
+        "magType": "mww",
+        "type": "earthquake",
+        "title": "M 5.3 - 3 km SW of Baganga, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.5369,
+          7.5552,
+          107.13
+        ]
+      },
+      "id": "us7000ge0c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.7,
+        "place": "79 km ESE of Bobon, Philippines",
+        "time": 1642766345287,
+        "updated": 1644128946705,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gdug",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gdug&format=geojson",
+        "felt": 2,
+        "cdi": 5.7,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 341,
+        "net": "us",
+        "code": "7000gdug",
+        "ids": ",us7000gdug,",
+        "sources": ",us,",
+        "types": ",dyfi,origin,phase-data,",
+        "nst": null,
+        "dmin": 1.469,
+        "rms": 0.54,
+        "gap": 75,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.7 - 79 km ESE of Bobon, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9537,
+          6.5219,
+          106.32
+        ]
+      },
+      "id": "us7000gdug"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.6,
+        "place": "83 km SW of Tagbak, Philippines",
+        "time": 1642612467816,
+        "updated": 1643320225040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gfl1",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gfl1&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 326,
+        "net": "us",
+        "code": "7000gfl1",
+        "ids": ",us7000gfl1,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 10.063,
+        "rms": 0.77,
+        "gap": 117,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.6 - 83 km SW of Tagbak, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.6494,
+          13.2258,
+          10
+        ]
+      },
+      "id": "us7000gfl1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.6,
+        "place": "41 km SSE of Pondaguitan, Philippines",
+        "time": 1642476029294,
+        "updated": 1644902074040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gcsb",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gcsb&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 326,
+        "net": "us",
+        "code": "7000gcsb",
+        "ids": ",us7000gcsb,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 1.285,
+        "rms": 0.92,
+        "gap": 119,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.6 - 41 km SSE of Pondaguitan, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.3446,
+          6.0265,
+          103.71
+        ]
+      },
+      "id": "us7000gcsb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.7,
+        "place": "92 km ENE of Pilar, Philippines",
+        "time": 1642473020704,
+        "updated": 1644897777040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gfa0",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gfa0&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 340,
+        "net": "us",
+        "code": "7000gfa0",
+        "ids": ",us7000gfa0,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 20.473,
+        "rms": 0.53,
+        "gap": 115,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.7 - 92 km ENE of Pilar, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8928,
+          10.1458,
+          10
+        ]
+      },
+      "id": "us7000gfa0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.3,
+        "place": "9 km WNW of Lamut, Philippines",
+        "time": 1642341480152,
+        "updated": 1645972286040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000geys",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000geys&format=geojson",
+        "felt": 1,
+        "cdi": 3.4,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 285,
+        "net": "us",
+        "code": "7000geys",
+        "ids": ",us7000geys,",
+        "sources": ",us,",
+        "types": ",dyfi,origin,phase-data,",
+        "nst": null,
+        "dmin": 6.599,
+        "rms": 0.3,
+        "gap": 109,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.3 - 9 km WNW of Lamut, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1459,
+          16.6852,
+          47.65
+        ]
+      },
+      "id": "us7000geys"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.1,
+        "place": "151 km ESE of Sarangani, Philippines",
+        "time": 1642313887316,
+        "updated": 1645775516040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000geyd",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000geyd&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 259,
+        "net": "us",
+        "code": "7000geyd",
+        "ids": ",us7000geyd,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 2.297,
+        "rms": 0.65,
+        "gap": 84,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.1 - 151 km ESE of Sarangani, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.796,
+          5.1033,
+          73.93
+        ]
+      },
+      "id": "us7000geyd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.2,
+        "place": "11 km ENE of Lapuan, Philippines",
+        "time": 1642220826535,
+        "updated": 1643155962040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gevg",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gevg&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 271,
+        "net": "us",
+        "code": "7000gevg",
+        "ids": ",us7000gevg,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 0.913,
+        "rms": 0.73,
+        "gap": 170,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.2 - 11 km ENE of Lapuan, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8019,
+          6.1779,
+          160.42
+        ]
+      },
+      "id": "us7000gevg"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.4,
+        "place": "40 km S of Sarangani, Philippines",
+        "time": 1641985687310,
+        "updated": 1643174966040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gdl3",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gdl3&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 298,
+        "net": "us",
+        "code": "7000gdl3",
+        "ids": ",us7000gdl3,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 2.023,
+        "rms": 0.63,
+        "gap": 115,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.4 - 40 km S of Sarangani, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.4193,
+          5.039,
+          75.61
+        ]
+      },
+      "id": "us7000gdl3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.5,
+        "place": "9 km E of Osme\u00f1a, Philippines",
+        "time": 1641705207080,
+        "updated": 1645097703040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gcy1",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gcy1&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 312,
+        "net": "us",
+        "code": "7000gcy1",
+        "ids": ",us7000gcy1,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 12.034,
+        "rms": 0.49,
+        "gap": 118,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.5 - 9 km E of Osme\u00f1a, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.4226,
+          12.7291,
+          41.47
+        ]
+      },
+      "id": "us7000gcy1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5,
+        "place": "112 km SE of Pondaguitan, Philippines",
+        "time": 1641637842282,
+        "updated": 1643549716040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ga61",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ga61&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 385,
+        "net": "us",
+        "code": "7000ga61",
+        "ids": ",us7000ga61,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 1.923,
+        "rms": 0.6,
+        "gap": 76,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 5.0 - 112 km SE of Pondaguitan, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9785,
+          5.7328,
+          107.86
+        ]
+      },
+      "id": "us7000ga61"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.1,
+        "place": "20 km NNE of Basco, Philippines",
+        "time": 1641637482172,
+        "updated": 1645094946040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gcwf",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gcwf&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 259,
+        "net": "us",
+        "code": "7000gcwf",
+        "ids": ",us7000gcwf,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 2.353,
+        "rms": 0.45,
+        "gap": 88,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.1 - 20 km NNE of Basco, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.0276,
+          20.6248,
+          39.14
+        ]
+      },
+      "id": "us7000gcwf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.6,
+        "place": "46 km ESE of Pondaguitan, Philippines",
+        "time": 1641605207252,
+        "updated": 1644028661040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ga2z",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ga2z&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 326,
+        "net": "us",
+        "code": "7000ga2z",
+        "ids": ",us7000ga2z,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 1.28,
+        "rms": 0.84,
+        "gap": 122,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.6 - 46 km ESE of Pondaguitan, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.5863,
+          6.265,
+          61.82
+        ]
+      },
+      "id": "us7000ga2z"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.6,
+        "place": null,
+        "time": 1641600183022,
+        "updated": 1642999396040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gcw3",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gcw3&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 326,
+        "net": "us",
+        "code": "7000gcw3",
+        "ids": ",us7000gcw3,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 4.019,
+        "rms": 0.63,
+        "gap": 144,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.6 - "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.6134,
+          19.0207,
+          10
+        ]
+      },
+      "id": "us7000gcw3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.3,
+        "place": "187 km SE of Pondaguitan, Philippines",
+        "time": 1641557376641,
+        "updated": 1642923640040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gcn6",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gcn6&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 284,
+        "net": "us",
+        "code": "7000gcn6",
+        "ids": ",us7000gcn6,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 2.607,
+        "rms": 0.33,
+        "gap": 125,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.3 - 187 km SE of Pondaguitan, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.2269,
+          5.0283,
+          93.29
+        ]
+      },
+      "id": "us7000gcn6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.4,
+        "place": "63 km N of Namuac, Philippines",
+        "time": 1641371741089,
+        "updated": 1643800990040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gbzl",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gbzl&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 298,
+        "net": "us",
+        "code": "7000gbzl",
+        "ids": ",us7000gbzl,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 3.613,
+        "rms": 0.74,
+        "gap": 120,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.4 - 63 km N of Namuac, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1706,
+          19.1874,
+          35.78
+        ]
+      },
+      "id": "us7000gbzl"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.5,
+        "place": "56 km W of Gadung, Philippines",
+        "time": 1641242302234,
+        "updated": 1643742006040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gble",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gble&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 312,
+        "net": "us",
+        "code": "7000gble",
+        "ids": ",us7000gble,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 2.077,
+        "rms": 0.93,
+        "gap": 107,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.5 - 56 km W of Gadung, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.5074,
+          6.7737,
+          17.97
+        ]
+      },
+      "id": "us7000gble"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.3,
+        "place": "17 km SSW of Donsol, Philippines",
+        "time": 1641189896777,
+        "updated": 1643899724040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gbl1",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gbl1&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 284,
+        "net": "us",
+        "code": "7000gbl1",
+        "ids": ",us7000gbl1,",
+        "sources": ",us,",
+        "types": ",origin,phase-data,",
+        "nst": null,
+        "dmin": 13.745,
+        "rms": 0.65,
+        "gap": 128,
+        "magType": "mb",
+        "type": "earthquake",
+        "title": "M 4.3 - 17 km SSW of Donsol, Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.5064,
+          12.7734,
+          10
+        ]
+      },
+      "id": "us7000gbl1"
+    }
+  ],
+  "bbox": [
+    118.239,
+    5.0283,
+    10,
+    127.5267,
+    20.6248,
+    601.36
+  ]
+}
